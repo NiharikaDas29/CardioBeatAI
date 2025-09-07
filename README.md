@@ -51,13 +51,15 @@ CardioBeat-AI/
 ⚙️ Installation
 
 Install dependencies:
+
 🚀 Usage
+
 1.
 2. Upload a Heartbeat File
 
-Upload a .wav/.mp3/.mp4 file.
+3. Upload a .wav/.mp3/.mp4 file.
 
-Get prediction + confidence score on the result page.
+4. Get prediction + confidence score on the result page.
 
 📊 Model Performance
 
