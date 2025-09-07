@@ -40,7 +40,7 @@ The system uses **MFCC feature extraction + CNN model**, outputs a **prediction 
 
 📂 CardioBeat-AI/
 ```
-📂 CardioBeat-AI/
+
 │── heart_sound_classifier.py        # Extra script (can be merged or kept for testing)
 │── final_heartbeat_model.keras      # Trained model saved in .keras format
 │── label_encoder.joblib             # Label encoder for mapping classes
