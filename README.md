@@ -82,6 +82,9 @@ Confusion matrix and classification report generated for each fold.
 ☁️ Cloud deployment with database logging.
 
 
+Link for the other CNN Model:
+https://drive.google.com/file/d/1xV9Czxh5OjyWM4cxSliqCGnpCNd2xZWf/view?usp=sharing
+
 👨‍💻 Contributors
 
 Hemil Shah (Project Lead)
