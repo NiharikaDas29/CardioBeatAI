@@ -45,21 +45,28 @@ Deep Learning Model → CNN trained on 5-class dataset.
 Prediction → Heart condition label + confidence.
 
 📂 Repository Structure
-CardioBeat-AI/
+CardioBeat-AI/               
+│── heart_sound_classifier.py     # Extra script (can be merged or kept for testing)
+│── final_heartbeat_model.keras   # Trained model saved in .keras format
+│── label_encoder.joblib          # Label encoder for mapping classes
+│── requirements.txt              # Python dependencies
+│── README.md                     # Project description & usage instructions
+│
+├── notebooks/                    # Jupyter/Colab notebooks for experimentation
+│   └── HeartBeat_Classifier.ipynb
+│
+├── reports/                      # Project reports & presentations
+│   ├── Heart Sound Classification.pdf
+│   └── Heart Sound Classification.pptx
 
-
-⚙️ Installation
-
-Install dependencies:
 
 🚀 Usage
 
-1.
-2. Upload a Heartbeat File
+1. Upload a Heartbeat File
 
-3. Upload a .wav/.mp3/.mp4 file.
+2. Upload a .wav/.mp3/.mp4 file.
 
-4. Get prediction + confidence score on the result page.
+3. Get prediction + confidence score on the result page.
 
 📊 Model Performance
 
