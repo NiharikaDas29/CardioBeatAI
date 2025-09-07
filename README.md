@@ -37,22 +37,20 @@ The system uses **MFCC feature extraction + CNN model**, outputs a **prediction 
 ---
 
 ## 📂 Repository Structure
-
 📂 CardioBeat-AI/
-│── heart_sound_classifier.py # Extra script (can be merged or kept for testing)
-│── final_heartbeat_model.keras # Trained model saved in .keras format
-│── label_encoder.joblib # Label encoder for mapping classes
-│── requirements.txt # Python dependencies
-│── README.md # Project description & usage instructions
+│── heart_sound_classifier.py        # Extra script (can be merged or kept for testing)
+│── final_heartbeat_model.keras      # Trained model saved in .keras format
+│── label_encoder.joblib             # Label encoder for mapping classes
+│── requirements.txt                 # Python dependencies
+│── README.md                        # Project description & usage instructions
 │
-├── notebooks/ # Jupyter/Colab notebooks for experimentation
-│ └── HeartBeat_Classifier.ipynb
+├── notebooks/                       # Jupyter/Colab notebooks for experimentation
+│   └── HeartBeat_Classifier.ipynb
 │
-├── reports/ # Project reports & presentations
-│ ├── Heart Sound Classification.pdf
-│ └── Heart Sound Classification.pptx
+├── reports/                         # Project reports & presentations
+│   ├── Heart Sound Classification.pdf
+│   └── Heart Sound Classification.pptx
 
- 
 
 ---
 
