@@ -50,8 +50,6 @@ The system uses **MFCC feature extraction + CNN model**, outputs a **prediction 
 ├── reports/                         # Project reports & presentations
 │   ├── Heart Sound Classification.pdf
 │   └── Heart Sound Classification.pptx
-
-
 ---
 
 ## 🚀 Usage
